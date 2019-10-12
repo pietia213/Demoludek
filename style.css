@@ -1,0 +1,120 @@
+.wsjo{
+	width: 800px;
+	height: 800px;
+
+}
+.glowa{
+	width:150px;
+	height:150px;
+	margin-left: 225px;
+	margin-top: 180px;
+	background-color: #ffe5b4;
+	border-radius: 100%;
+	border:;
+	
+}
+.tlow{
+	width:80px;
+	height:300px;
+	margin-left: 260px;
+	margin-top: -20px;
+	background-color: #ffe5b4;
+	border-radius: 100px 100px 100px 100px;
+	
+}
+.prawa{
+	width:40px;
+	height:200px;
+	margin-left: 240px;
+	margin-top: -45px;
+	background-color: #ffe5b4;
+	border-radius: 100px 0px 0px 0px;
+}
+.lewa{
+	width:40px;
+	height:200px;
+	margin-left: 323px;
+	margin-top: -199px;
+	background-color: #ffe5b4;
+	border-radius: 0px 100px 0px 0px;
+}
+.ramie-lewe{
+	width:40px;
+	height:40px;
+	margin-left: 223px;
+	margin-top: -399px;
+	background-color: #ffe5b4;
+	border-radius: 100px 0px 0px 0px;
+
+}
+.ramie-prawe{
+	width:40px;
+	height:40px;
+	margin-left: 340px;
+	margin-top: -38px;
+	background-color: #ffe5b4;
+	border-radius: 0px 100px 0px 0px;
+
+}
+.oko-lewe{
+	width:30px;
+	height:30px;
+	margin-left: 255px;
+	margin-top: -180px;
+	background-color: blue;
+	border-radius: 10px 50px 10px 50px;
+	border:;
+}
+.oko-prawe{
+	width:30px;
+	height:30px;
+	margin-left: 310px;
+	margin-top: -30px;
+	background-color: blue;
+	border-radius: 50px 10px 50px 10px;
+	border:;
+	
+}
+.oko-prawe:hover{
+	width:30px;
+	height:30px;
+	margin-left: 310px;
+	margin-top: -30px;
+	background-color: blue;
+	border-radius: 100%;
+	border:;
+	
+}
+.oko-lewe:hover{
+	width:30px;
+	height:30px;
+	margin-left: 255px;
+	margin-top: -180px;
+	background-color: blue;
+	border-radius: 100%;
+	border:;
+}
+.spodnie{
+	width:110px;
+	height:80px;
+	background-image: url("moro.jpg");
+	margin-left: 248px;
+	margin-top: -100px;
+	border-radius: 15px 15px 0px 0px;
+}
+.spodnie-lewa-nogawka{
+	width:50px;
+	height:50px;
+	background-image: url("moro.jpg");
+	margin-left: 235px;
+	margin-top: -50px;
+	border-radius: 15px 15px 15px 15px;
+}
+.spodnie-prawa-nogawka{
+	width:50px;
+	height:50px;
+	background-image: url("moro.jpg");
+	margin-left: 320px;
+	margin-top: 340px;
+	border-radius: 15px 15px 15px 15px;
+}
